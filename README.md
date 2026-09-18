@@ -47,23 +47,6 @@ It is designed for **critical infrastructure operators** who use passive mirrori
 
 ---
 
-## 📂 Repository Structure
-
----
-
-## 📊 Alert Schema
-```json
-{
-  "timestamp": "2026-09-18T17:20:00Z",
-  "flow_id": "flow12345",
-  "threat_class": "Botnet C2 Beaconing",
-  "confidence": 0.92,
-  "evidence": {
-    "periodicity": "30s",
-    "dst_ip": "192.0.2.5"
-  }
-}
-# AI-Based Detection of Cyber Threats in Unidirectional IP Traffic
 
 ## 📌 Architecture Overview
 <img width="474" height="263" alt="image" src="https://github.com/user-attachments/assets/c659c466-6d46-4f70-b34a-f4c365a0f3f5" />
