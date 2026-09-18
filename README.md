@@ -66,16 +66,21 @@ It is designed for **critical infrastructure operators** who use passive mirrori
 # AI-Based Detection of Cyber Threats in Unidirectional IP Traffic
 
 ## 📌 Architecture Overview
-![Cybersecurity Architecture](IMAGE_LINK_1)
+<img width="474" height="263" alt="image" src="https://github.com/user-attachments/assets/c659c466-6d46-4f70-b34a-f4c365a0f3f5" />
+
 
 ## 📊 Threat Detection Dashboard
-![Threat Detection Dashboard](IMAGE_LINK_2)
+<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/5618342d-1d9c-4333-a1fb-00e346529a68" />
+
 
 ## 🔐 Blockchain Identity & Access Control
-![Blockchain Identity](IMAGE_LINK_3)
+<img width="474" height="338" alt="image" src="https://github.com/user-attachments/assets/5ab7e345-5f09-4243-8700-d5ed1276849d" />
+
 
 ## 🔄 Data Pipeline
-![Data Pipeline](IMAGE_LINK_4)
+<img width="474" height="616" alt="image" src="https://github.com/user-attachments/assets/07119417-58db-427b-806c-9e96ba77827f" />
+
 
 ## ☁️ Cloud-Native Microservices
-![Cloud-Native Architecture](IMAGE_LINK_5)
+<img width="474" height="296" alt="image" src="https://github.com/user-attachments/assets/f083a0d9-4b61-4729-9887-761427454168" />
+
