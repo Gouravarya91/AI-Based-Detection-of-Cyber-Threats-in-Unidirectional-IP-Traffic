@@ -1,0 +1,6 @@
+{
+  "name": "GCP Cyber Threat Detection & SOC Operations",
+  "description": "Real-time network traffic threat detection pipeline on Google Cloud (Pub/Sub, BigQuery, Vertex AI) with simulated flow ingestion, threat classification, and Gemini-powered forensic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
